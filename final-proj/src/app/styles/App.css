@@ -1,0 +1,33 @@
+.app__home {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.app__home_top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.app__home_top h1 {
+    font-size: 80px;
+    margin:0;
+}
+
+.app__home_top_text_text{
+margin-left:100px;
+}
+
+.app__home_products{
+    display:flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.app__header_right_button {
+    font-size: 30px; 
+    background: none; 
+    border: none; 
+    cursor: pointer; 
+    padding: 0; 
+  }
